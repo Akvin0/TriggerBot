@@ -20,7 +20,7 @@ int main()
 
 	while (1)
 	{
-		if (GetAsyncKeyState(VK_PAUSE))
+		if (GetAsyncKeyState(VK_INSERT))
 		{
 			break;
 		}
